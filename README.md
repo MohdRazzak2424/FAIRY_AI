@@ -14,30 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-  <div class="row">
-  <div class="column">
-    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Snow" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Forest" style="width:25%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Mountains" style="width:25%">
-  </div>
-</div>
 
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-ct-fit: cover; /* Ensures images fill their container while maintaining aspect ratio */
-}
+
+<p float="left">
+  <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" width="100" />
+  <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" width="100" /> 
+  <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" width="100" />
+</p>

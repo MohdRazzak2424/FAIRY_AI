@@ -16,13 +16,13 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
   <div class="row">
   <div class="column">
-    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Snow" style="width:100%">
+    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Snow" style="width:25%">
   </div>
   <div class="column">
-    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Forest" style="width:100%">
+    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Forest" style="width:25%">
   </div>
   <div class="column">
-    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Mountains" style="width:100%">
+    <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" alt="Mountains" style="width:25%">
   </div>
 </div>
 

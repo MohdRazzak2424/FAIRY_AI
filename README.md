@@ -26,4 +26,14 @@ samples, guidance on mobile development, and a full API reference.
   </div>
 </div>
 
-  <
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Creates 3 equal-width columns */
+  gap: 10px; /* Creates a gap between images */
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Ensures images fill their container while maintaining aspect ratio */
+}

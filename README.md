@@ -20,6 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <p float="centre">
   <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" width="100" />
-  <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" width="100" /> 
-  <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg" width="100" />
+  <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/73147e24f2211d80dae3be67c2bd38553c15073a/fairy2.jpeg" width="100" /> 
+  <img src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/73147e24f2211d80dae3be67c2bd38553c15073a/fairy3.jpeg" width="100" />
 </p>

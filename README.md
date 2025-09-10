@@ -14,3 +14,17 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+  <sup>Special thanks to:</sup>
+  <br><br>
+  <a href="https://go.warp.dev/localsend" target="_blank">
+    <img alt="Warp sponsorship" width="300" src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg">
+    <br>
+    <img alt="Warp sponsorship" width="300" src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg">
+    <br>
+     <img alt="Warp sponsorship" width="300" src="https://github.com/MohdRazzak2424/FAIRY_AI/blob/6fefd4537b01c61efa5cffbe27145a7f1b4cfafa/fairy1.jpeg">
+     <br>
+    <sup>Available for macOS, Linux and Windows</sup>
+  </a>
+</div>
